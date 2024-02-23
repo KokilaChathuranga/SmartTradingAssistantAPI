@@ -1,2 +1,2 @@
-# choreo_auth
-auth component for choreo
+# Smart Trading Assistant API
+API component for the trading assistant app
